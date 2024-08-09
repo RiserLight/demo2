@@ -1,0 +1,3 @@
+[submodule "library-demo"]
+	path = library-demo
+	url = https://github.com/RiserLight/library-demo.git
